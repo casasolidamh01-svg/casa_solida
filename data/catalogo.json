@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Modelo Terraza Bloquelón", "imagen": "img/catalogo/modelo-01-terraza-bloquelon.jpg", "alt": "Casa prefabricada con terraza y rampa de acceso" },
+  { "id": 2, "nombre": "Modelo Campestre Elevado", "imagen": "img/catalogo/modelo-02-campestre-elevada.jpg", "alt": "Casa prefabricada elevada tipo campestre" },
+  { "id": 3, "nombre": "Modelo Panorámico", "imagen": "img/catalogo/modelo-03-panoramica.jpg", "alt": "Casa prefabricada con terraza panorámica" },
+  { "id": 4, "nombre": "Modelo Bloquelón", "imagen": "img/catalogo/modelo-04-bloquelon-construccion.jpg", "alt": "Casa en panel tipo Bloquelón" },
+  { "id": 5, "nombre": "Modelo Jardín Blanco", "imagen": "img/catalogo/modelo-05-jardin-blanco.jpg", "alt": "Casa moderna terminada con jardín" },
+  { "id": 6, "nombre": "Modelo Ventanal Moderno", "imagen": "img/catalogo/modelo-06-ventanal-moderno.jpg", "alt": "Casa moderna terminada con ventanales amplios" },
+  { "id": 7, "nombre": "Modelo Minimalista", "imagen": "img/catalogo/modelo-07-minimalista.jpg", "alt": "Casa prefabricada con terraza de estilo minimalista" },
+  { "id": 8, "nombre": "Modelo Estructura Metálica", "imagen": "img/catalogo/modelo-08-estructura-metalica.jpg", "alt": "Modelo en estructura metálica en proceso de construcción" },
+  { "id": 9, "nombre": "Modelo Techo a Dos Aguas", "imagen": "img/catalogo/modelo-09-techo-dos-aguas.jpg", "alt": "Vivienda campestre con techo a dos aguas" },
+  { "id": 10, "nombre": "Modelo Vivienda Campestre", "imagen": "img/catalogo/modelo-10-vivienda-campestre.jpg", "alt": "Vivienda campestre elevada en zona rural" }
+]
